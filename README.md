@@ -6,3 +6,32 @@ This was a 8 months course (May 2025 - December 2025)
 
 Here is the public link with the overview of all module and projects:
 https://www.mygreatlearning.com/eportfolio/jose-alexandre-tenorio-cavalcanti-junior
+
+Course Modules:
+1) Python Foundations
+   - Introduction to Python
+   - Data Manipulation
+   - Exploratory Data Analysis
+   - Analyzing Text Data
+2) Machine Learning
+   - Linear Regression
+   - Decision Trees
+   - K-means Clustering
+3) Advanced Machine Learning
+   - Bagging
+   - Boosting
+   - Model Tuning
+4) Introduction To Neural Networks
+   - Introduction to Neural Networks
+   - Optimizing Neural Networks
+5) Natural Language Processing with Generative AI
+   - Word Embeddings
+   - Attention Mechanism and Transformers
+   - Large Language Models and Prompt Engineering
+   - Retrieval Augmented Generation
+6) Introduction to Computer Vision
+   - Image Processing
+   - Convolutional Neural Networks
+7) Model Deployment
+   - Introduction to Model Deployment
+   - Containerization

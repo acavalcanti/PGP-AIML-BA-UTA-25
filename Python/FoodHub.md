@@ -6,14 +6,14 @@ Perform an exploratory data analysis and provide actionable insights for a food 
 
 Skills & Tools Covered
 
-python
-Numpy
-Pandas
-Seaborn
-Exploratory Data Analysis
-Business recommendations
-Bivariate Analysis
-Univariate Analysis
+- python
+- Numpy
+- Pandas
+- Seaborn
+- Exploratory Data Analysis
+- Business recommendations
+- Bivariate Analysis
+- Univariate Analysis
 
 Grade A-
 

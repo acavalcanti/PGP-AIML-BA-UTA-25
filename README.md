@@ -24,7 +24,7 @@ Course Modules:
 4) Introduction To Neural Networks (https://github.com/acavalcanti/PGP-AIML-BA-UTA-25/blob/main/NN/ReneWind.md)
    - Introduction to Neural Networks
    - Optimizing Neural Networks
-5) Natural Language Processing with Generative AI
+5) Natural Language Processing with Generative AI (https://github.com/acavalcanti/PGP-AIML-BA-UTA-25/blob/main/NLP/MedicalAssistant.md)
    - Word Embeddings
    - Attention Mechanism and Transformers
    - Large Language Models and Prompt Engineering

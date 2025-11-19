@@ -29,7 +29,7 @@ Course Modules:
    - Attention Mechanism and Transformers
    - Large Language Models and Prompt Engineering
    - Retrieval Augmented Generation
-6) Introduction to Computer Vision
+6) Introduction to Computer Vision (https://github.com/acavalcanti/PGP-AIML-BA-UTA-25/blob/main/CV/HelmNet.md)
    - Image Processing
    - Convolutional Neural Networks
 7) Model Deployment

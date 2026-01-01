@@ -32,6 +32,6 @@ Course Modules:
 6) Introduction to Computer Vision (https://github.com/acavalcanti/PGP-AIML-BA-UTA-25/blob/main/CV/HelmNet.md)
    - Image Processing
    - Convolutional Neural Networks
-7) Model Deployment
+7) Model Deployment (https://github.com/acavalcanti/PGP-AIML-BA-UTA-25/blob/main/MD/SuperKart.md)
    - Introduction to Model Deployment
    - Containerization

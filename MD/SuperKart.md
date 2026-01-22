@@ -15,7 +15,7 @@ API Development
 Streamlit
 HuggingFace
 
-Grade - A+
+Grade A+
 
 Evaluator
 

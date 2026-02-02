@@ -1,6 +1,6 @@
 # PGP-AIML-BA-UTA-25
 
-This is my Academic e-Portfolio containing all projects I have done during the Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications course by the McCombs School of Business at The University of Texas at Austin.
+This is my Academic e-Portfolio containing all projects I have done during the Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications course by the McCombs School of Business at The University of Texas at Austin (https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course).
 
 This was a 8 months course (May 2025 - December 2025)
 
